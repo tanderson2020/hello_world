@@ -1,0 +1,14 @@
+h1{
+  color: red;
+  text-align: center;
+}
+body{
+  font-size: 16;
+  width: 85%;
+  margin: 0 auto;
+}
+
+p{
+  color: black;
+  width: 50vw;
+}
